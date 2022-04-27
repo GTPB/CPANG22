@@ -1,0 +1,24 @@
+code {
+  padding: 2px 2px 2px;
+  font-size: 90%;
+  color: black;
+  background-color:   #d8edfc;
+  border: 1px solid #e1e1e8;
+  white-space: pre-wrap;
+}
+
+pre {
+  font-size: 12px;
+}
+
+a code {
+  color: #08c;
+}
+
+td, th {
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2
+}
