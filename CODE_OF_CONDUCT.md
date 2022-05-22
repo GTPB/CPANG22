@@ -1,3 +1,16 @@
+# CPANG22 - Computational PANGenomics
+
+###  Instituto Gulbenkian de Ciência (IGC) - Oeiras, Portugal - May 23<sup>th</sup> - May 27<sup>th</sup> 2022
+
+### Activities
+- [Day 1a - Introductio ](https://hackmd.io/@AndreaGuarracino/SJQ1XPGD9)
+- [Day 1b - PGGB](https://hackmd.io/@AndreaGuarracino/S1Qbe27v5)
+- [Day 2a - Homo sapiens pangenome graphs](https://hackmd.io/@AndreaGuarracino/r1dyQA7Dq)
+- [Day 2b - Pangenome (sub)graphs](https://hackmd.io/@AndreaGuarracino/H19Gn7VDc)
+- [Day 3a - Saccharomyces cerevisiae pangenome graphs](https://hackmd.io/@AndreaGuarracino/S1Hbo1Bw9)
+- [Day 3b - Saccharomyces cerevisiae pangenome graphs](https://hackmd.io/@AndreaGuarracino/BJGvzmrvc)
+
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
