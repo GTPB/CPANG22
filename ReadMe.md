@@ -1,17 +1,16 @@
 ## GTPB Course Pages
 
-### Usage Instructions
+### CPANG22 - Computational PANGenomics
 
-1. Create contents using .md files in the pages folder. Use normal markdown format for your page contents.
-2. The index.md page is the homepage for the website. Customise it as you would create a README.md file.
-3. If using pdf or images upload them to the assets folder.
-4. DO NOT erase or mess with any of the other folders and/or files without consulting with the organisation, as they are necessary for the website structure, layout and integrity.
+####  Instituto Gulbenkian de Ciência (IGC) - Oeiras, Portugal - May 23<sup>th</sup> - May 27<sup>th</sup> 2022
 
-### Deployment instructions
-
-1. Edit the config.yml file to change the course name and url link.
-2. When ready, copy the contents in the master branch to the gh-pages branch.
-3. Make sure everything works properly and do your final corrections.
+### Activities
+- [Day 1a - Introductio ](https://hackmd.io/@AndreaGuarracino/SJQ1XPGD9)
+- [Day 1b - PGGB](https://hackmd.io/@AndreaGuarracino/S1Qbe27v5)
+- [Day 2a - Homo sapiens pangenome graphs](https://hackmd.io/@AndreaGuarracino/r1dyQA7Dq)
+- [Day 2b - Pangenome (sub)graphs](https://hackmd.io/@AndreaGuarracino/H19Gn7VDc)
+- [Day 3a - Saccharomyces cerevisiae pangenome graphs](https://hackmd.io/@AndreaGuarracino/S1Hbo1Bw9)
+- [Day 3b - Saccharomyces cerevisiae pangenome graphs](https://hackmd.io/@AndreaGuarracino/BJGvzmrvc)
 
 <!---
 
