@@ -16,6 +16,9 @@
 - [Day 3a - Saccharomyces cerevisiae pangenome graphs](https://hackmd.io/@AndreaGuarracino/S1Hbo1Bw9)
 - [Day 3b - Saccharomyces cerevisiae pangenome graphs](https://hackmd.io/@AndreaGuarracino/BJGvzmrvc)
 
+### Notes
+- [general notes](https://hackmd.io/@i-Mv45MZTMa2ZQH2rMAArQ/cpang22notes)
+
 The following co-authors contributed to the development of the training material.
 
 * [Erik Garrison](https://github.com/ekg)
