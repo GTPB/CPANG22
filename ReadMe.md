@@ -13,6 +13,9 @@
 - [Day 1b - PGGB](https://hackmd.io/@AndreaGuarracino/S1Qbe27v5)
 - [Day 2a - Homo sapiens pangenome graphs](https://hackmd.io/@AndreaGuarracino/r1dyQA7Dq)
 
+### Notes
+- [general notes](https://hackmd.io/@i-Mv45MZTMa2ZQH2rMAArQ/cpang22notes)
+
 The following co-authors contributed to the development of the training material.
 
 * [Erik Garrison](https://github.com/ekg)
