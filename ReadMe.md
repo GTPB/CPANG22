@@ -12,9 +12,6 @@
 - [Day 1a - Introduction](https://hackmd.io/@AndreaGuarracino/SJQ1XPGD9)
 - [Day 1b - PGGB](https://hackmd.io/@AndreaGuarracino/S1Qbe27v5)
 - [Day 2a - Homo sapiens pangenome graphs](https://hackmd.io/@AndreaGuarracino/r1dyQA7Dq)
-- [Day 2b - Pangenome (sub)graphs](https://hackmd.io/@AndreaGuarracino/H19Gn7VDc)
-- [Day 3a - Saccharomyces cerevisiae pangenome graphs](https://hackmd.io/@AndreaGuarracino/S1Hbo1Bw9)
-- [Day 3b - Saccharomyces cerevisiae pangenome graphs](https://hackmd.io/@AndreaGuarracino/BJGvzmrvc)
 
 The following co-authors contributed to the development of the training material.
 
