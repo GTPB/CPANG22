@@ -4,6 +4,9 @@
 
 ####  Instituto Gulbenkian de Ciência (IGC) - Oeiras, Portugal - May 23<sup>th</sup> - May 27<sup>th</sup> 2022
 
+### Slides
+- [Day 1a - Introduction](https://docs.google.com/presentation/d/179JM29BzhAM1Z7NkKCyiB9OTVUbKoFs4IPKoN4W4ZyU/edit?usp=sharing)
+
 ### Activities
 - [Day 1a - Introduction](https://hackmd.io/@AndreaGuarracino/SJQ1XPGD9)
 - [Day 1b - PGGB](https://hackmd.io/@AndreaGuarracino/S1Qbe27v5)
