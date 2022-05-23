@@ -6,6 +6,7 @@
 
 ### Slides
 - [Day 1a - Introduction](https://docs.google.com/presentation/d/179JM29BzhAM1Z7NkKCyiB9OTVUbKoFs4IPKoN4W4ZyU/edit?usp=sharing)
+- [Day 1b - PGGB](https://docs.google.com/presentation/d/1DQkVZ4eH0WbUvXbu8RqAAbcNoVBVEBWVky2ISIIF_9U/edit?usp=sharing)
 
 ### Activities
 - [Day 1a - Introduction](https://hackmd.io/@AndreaGuarracino/SJQ1XPGD9)
