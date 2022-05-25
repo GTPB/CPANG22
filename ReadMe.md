@@ -8,11 +8,15 @@
 - [Day 1a - Introduction](https://docs.google.com/presentation/d/179JM29BzhAM1Z7NkKCyiB9OTVUbKoFs4IPKoN4W4ZyU/edit?usp=sharing)
 - [Day 1b - PGGB](https://docs.google.com/presentation/d/1DQkVZ4eH0WbUvXbu8RqAAbcNoVBVEBWVky2ISIIF_9U/edit?usp=sharing)
 - [Day 2a - Pangenome visualization](https://docs.google.com/presentation/d/1WctQlD2cF1_6Ck0M4gBzmI0U5KG5zAd9joQ1aXKIcs4/edit?usp=sharing)
+- [Day 3a - ODGI](https://docs.google.com/presentation/d/1WZ2OrA5RY8R8IHcxp5165ySlhcHafVR-nNZ_hFivV2I/edit?usp=sharing)
+
 
 ### Activities
 - [Day 1a - Introduction](https://hackmd.io/@AndreaGuarracino/SJQ1XPGD9)
 - [Day 1b - PGGB](https://hackmd.io/@AndreaGuarracino/S1Qbe27v5)
 - [Day 2a - Homo sapiens pangenome graphs](https://hackmd.io/@AndreaGuarracino/r1dyQA7Dq)
+- [Day 3a - Pangenome (sub)graphs](https://hackmd.io/@AndreaGuarracino/H19Gn7VDc)
+
 
 ### Notes
 - [general notes](https://hackmd.io/@i-Mv45MZTMa2ZQH2rMAArQ/cpang22notes)
