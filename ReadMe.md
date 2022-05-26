@@ -6,22 +6,22 @@
 
 
 ### Introduction
-- [Slides](https://docs.google.com/presentation/d/179JM29BzhAM1Z7NkKCyiB9OTVUbKoFs4IPKoN4W4ZyU/edit?usp=sharing)
+- [Slides](slides/CPANG22%20-%20Day%201a%20-%20Introduction.pdf)
 - [Activities](https://hackmd.io/@AndreaGuarracino/SJQ1XPGD9)
 
 ### PGGB
-- [Slides](https://docs.google.com/presentation/d/1DQkVZ4eH0WbUvXbu8RqAAbcNoVBVEBWVky2ISIIF_9U/edit?usp=sharing)
+- [Slides](slides/CPANG22%20-%20Day%201b%20-%20PGGB.pdf)
 - [Activities - Build your first pangenomes](https://hackmd.io/@AndreaGuarracino/S1Qbe27v5)
 
 ### Pangenome visualization
-- [Slides](https://docs.google.com/presentation/d/1WctQlD2cF1_6Ck0M4gBzmI0U5KG5zAd9joQ1aXKIcs4/edit?usp=sharing)
+- [Slides](slides/CPANG22%20-%20Day%202a%20-%20Pangenome%20visualization.pdf)
 
 ### Homo sapiens pangenomes
 - [Activities - Pangenome building](https://hackmd.io/@AndreaGuarracino/r1dyQA7Dq)
 - [Activities - Deep exploration](https://hackmd.io/@AndreaGuarracino/H19Gn7VDc)
 
 ### ODGI
-- [Slides](https://docs.google.com/presentation/d/1WZ2OrA5RY8R8IHcxp5165ySlhcHafVR-nNZ_hFivV2I/edit?usp=sharing)
+- [Slides](slides/CPANG22%20-%20Day%203a%20-%20ODGI.pdf)
 
 ### Saccharomyces cerevisiae pangenomes
 - [Activities - Divergence estimation and pangenome building](https://hackmd.io/@AndreaGuarracino/S1Hbo1Bw9)
