@@ -7,28 +7,28 @@
 
 ### Introduction
 - [Slides](slides/CPANG22%20-%20Day%201a%20-%20Introduction.pdf)
-- [Activities](https://hackmd.io/@AndreaGuarracino/SJQ1XPGD9)
+- [Activities](activities/Day%201a%20-%20Introduction.md)
 
 ### PGGB
 - [Slides](slides/CPANG22%20-%20Day%201b%20-%20PGGB.pdf)
-- [Activities - Build your first pangenomes](https://hackmd.io/@AndreaGuarracino/S1Qbe27v5)
+- [Activities - Build your first pangenomes](activities/Day%201b%20-%20PGGB.md)
 
 ### Pangenome visualization
 - [Slides](slides/CPANG22%20-%20Day%202a%20-%20Pangenome%20visualization.pdf)
 
 ### Homo sapiens pangenomes
-- [Activities - Pangenome building](https://hackmd.io/@AndreaGuarracino/r1dyQA7Dq)
-- [Activities - Deep exploration](https://hackmd.io/@AndreaGuarracino/H19Gn7VDc)
+- [Activities - Pangenome building](activities/Day%202a%20-%20Homo%20sapiens%20pangenome%20graphs.md)
+- [Activities - Deep exploration](activities/Day%203a%20-%20Pangenome%20(sub)graphs.md)
 
 ### ODGI
 - [Slides](slides/CPANG22%20-%20Day%203a%20-%20ODGI.pdf)
 
 ### Saccharomyces cerevisiae pangenomes
-- [Activities - Divergence estimation and pangenome building](https://hackmd.io/@AndreaGuarracino/S1Hbo1Bw9)
-- [Activities - Community detection](https://hackmd.io/@AndreaGuarracino/BJGvzmrvc)
+- [Activities - Divergence estimation and pangenome building](activities/Day%203a%20-%20Saccharomyces%20cerevisiae%20pangenome%20graphs.md)
+- [Activities - Community detection](activities/Day%204a%20-%20Saccharomyces%20cerevisiae%20pangenome%20graphs.md)
 
 ### Read mapping and variant calling
-- [Activities](https://hackmd.io/@AndreaGuarracino/ryOXAxawq)
+- [Activities](activities/Day%204b%20-%20Read%20mapping.md)
 
 
 ### Notes
