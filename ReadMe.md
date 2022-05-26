@@ -17,6 +17,7 @@
 - [Day 2a - Homo sapiens pangenome graphs](https://hackmd.io/@AndreaGuarracino/r1dyQA7Dq)
 - [Day 3a - Pangenome (sub)graphs](https://hackmd.io/@AndreaGuarracino/H19Gn7VDc)
 - [Day 3b - Saccharomyces cerevisiae pangenome graphs](https://hackmd.io/@AndreaGuarracino/S1Hbo1Bw9)
+- [Day 4a - Saccharomyces cerevisiae pangenome graphs](https://hackmd.io/@AndreaGuarracino/BJGvzmrvc)
 
 
 ### Notes
