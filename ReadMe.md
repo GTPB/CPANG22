@@ -4,24 +4,35 @@
 
 ####  Instituto Gulbenkian de Ciência (IGC) - Oeiras, Portugal - May 23<sup>th</sup> - May 27<sup>th</sup> 2022
 
-### Slides
-- [Day 1a - Introduction](https://docs.google.com/presentation/d/179JM29BzhAM1Z7NkKCyiB9OTVUbKoFs4IPKoN4W4ZyU/edit?usp=sharing)
-- [Day 1b - PGGB](https://docs.google.com/presentation/d/1DQkVZ4eH0WbUvXbu8RqAAbcNoVBVEBWVky2ISIIF_9U/edit?usp=sharing)
-- [Day 2a - Pangenome visualization](https://docs.google.com/presentation/d/1WctQlD2cF1_6Ck0M4gBzmI0U5KG5zAd9joQ1aXKIcs4/edit?usp=sharing)
-- [Day 3a - ODGI](https://docs.google.com/presentation/d/1WZ2OrA5RY8R8IHcxp5165ySlhcHafVR-nNZ_hFivV2I/edit?usp=sharing)
 
+### Introduction
+- [Slides](https://docs.google.com/presentation/d/179JM29BzhAM1Z7NkKCyiB9OTVUbKoFs4IPKoN4W4ZyU/edit?usp=sharing)
+- [Activities](https://hackmd.io/@AndreaGuarracino/SJQ1XPGD9)
 
-### Activities
-- [Day 1a - Introduction](https://hackmd.io/@AndreaGuarracino/SJQ1XPGD9)
-- [Day 1b - PGGB](https://hackmd.io/@AndreaGuarracino/S1Qbe27v5)
-- [Day 2a - Homo sapiens pangenome graphs](https://hackmd.io/@AndreaGuarracino/r1dyQA7Dq)
-- [Day 3a - Pangenome (sub)graphs](https://hackmd.io/@AndreaGuarracino/H19Gn7VDc)
-- [Day 3b - Saccharomyces cerevisiae pangenome graphs](https://hackmd.io/@AndreaGuarracino/S1Hbo1Bw9)
-- [Day 4a - Saccharomyces cerevisiae pangenome graphs](https://hackmd.io/@AndreaGuarracino/BJGvzmrvc)
-- [Day 4b - Read mapping and variant calling](https://hackmd.io/@AndreaGuarracino/ryOXAxawq)
+### PGGB
+- [Slides](https://docs.google.com/presentation/d/1DQkVZ4eH0WbUvXbu8RqAAbcNoVBVEBWVky2ISIIF_9U/edit?usp=sharing)
+- [Activities - Build your first pangenomes](https://hackmd.io/@AndreaGuarracino/S1Qbe27v5)
+
+### Pangenome visualization
+- [Slides](https://docs.google.com/presentation/d/1WctQlD2cF1_6Ck0M4gBzmI0U5KG5zAd9joQ1aXKIcs4/edit?usp=sharing)
+
+### Homo sapiens pangenomes
+- [Activities - Pangenome building](https://hackmd.io/@AndreaGuarracino/r1dyQA7Dq)
+- [Activities - Deep exploration](https://hackmd.io/@AndreaGuarracino/H19Gn7VDc)
+
+### ODGI
+- [Slides](https://docs.google.com/presentation/d/1WZ2OrA5RY8R8IHcxp5165ySlhcHafVR-nNZ_hFivV2I/edit?usp=sharing)
+
+### Saccharomyces cerevisiae pangenomes
+- [Activities - Divergence estimation and pangenome building](https://hackmd.io/@AndreaGuarracino/S1Hbo1Bw9)
+- [Activities - Community detection](https://hackmd.io/@AndreaGuarracino/BJGvzmrvc)
+
+### Read mapping and variant calling
+- [Activities](https://hackmd.io/@AndreaGuarracino/ryOXAxawq)
+
 
 ### Notes
-- [general notes](https://hackmd.io/@i-Mv45MZTMa2ZQH2rMAArQ/cpang22notes)
+- [General notes](https://hackmd.io/@i-Mv45MZTMa2ZQH2rMAArQ/cpang22notes)
 
 The following co-authors contributed to the development of the training material.
 
