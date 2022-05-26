@@ -18,7 +18,7 @@
 - [Day 3a - Pangenome (sub)graphs](https://hackmd.io/@AndreaGuarracino/H19Gn7VDc)
 - [Day 3b - Saccharomyces cerevisiae pangenome graphs](https://hackmd.io/@AndreaGuarracino/S1Hbo1Bw9)
 - [Day 4a - Saccharomyces cerevisiae pangenome graphs](https://hackmd.io/@AndreaGuarracino/BJGvzmrvc)
-
+- [Day 4b - Read mapping and variant calling](https://hackmd.io/@AndreaGuarracino/ryOXAxawq)
 
 ### Notes
 - [general notes](https://hackmd.io/@i-Mv45MZTMa2ZQH2rMAArQ/cpang22notes)
