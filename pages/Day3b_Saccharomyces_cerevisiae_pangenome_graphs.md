@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Day 3a - Saccharomyces cerevisiae pangenome graphs
+title: Day 3b - Saccharomyces cerevisiae pangenome graphs
 schemadotorg:
   "@context": http://schema.org/
   "@type": CreativeWork
