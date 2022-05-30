@@ -14,4 +14,4 @@ Page Contents with markdown.
 
 ### Back
 
-Back to [first page](https://gtpb.github.io/COURSE/).
+Back to [main page](../index.md).

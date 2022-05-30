@@ -8,11 +8,11 @@ schemadotorg:
   # Course details
        # "name" -> The acronym and extended name of the course, separated by " - "
        # "description" -> Short description of the course
-  name: "COURSE_SHORT - COURSE_EXTENDED_NAME"
-  description: ""
+  name: "CPANG22 - Computational PANGenomics"
+  description: "Training Material aimed in the exploration of modern bioinformatic tools that allow researchers to use pangenomes as their reference system when engaging in studies of organisms of all types."
 
   # Keywords -> Consult EDAM:Topic
-  keywords:  ""
+keywords:  "http://edamontology.org/topic_0622"
 
   # Audience -> Following Elixir-Tess input
   audience: ["Academia/ Research Institution", "Industry", "Non-Profit Organisation", "Healthcare"]
@@ -30,11 +30,9 @@ schemadotorg:
   # Contributor info
   contributor:
     - "@type": Person
-      name: "CO-AUTHOR_1"
+      name: "Erik Garrison"
     - "@type": Person
-      name: "CO-AUTHOR_2"
-    - "@type": Person
-      name: "CO-AUTHOR_3"
+      name: "Andrea Guarracino"
 
   # License & Language & url
   license: https://creativecommons.org/licenses/by/4.0/
@@ -44,22 +42,55 @@ schemadotorg:
 
 ## Course Description
 
+Reference genomes are central to most bioinformatics approaches. However, the use of a single reference genome to guide an analysis can result in reference bias: other genomes appear more similar to the reference than they actually are. We might miss, or misunderstand information about genome variability and relationship that cannot be expressed relative to a chosen reference genome. Moreover, new assembly methods are making it easier than ever to generate high-quality complete genome assemblies. To obtain a total understanding of variation between multiple whole genomes, we need to use a model that expresses many genomes and their mutual alignment. A general solution to these problems is to use a pangenome graph wherein genomes are described as labeled walks through an underlying s equence graph. In this course, we will work with methods to build such graphs from whole genome assemblies, and to use the built graphs in an array of downstream applications in comparative genomics, evolution, variation analysis, sequence alignment, and phenotype association.
 
 ## Target Audience
 
+This course is oriented towards biologists and bioinformaticians. The course will be of particular interest to researchers investigating organisms without a reference genome or populations featuring high levels of genetic diversity, to researchers in comparative genomics, and to researchers who are assembling pangenomes of any species.
 
 ## Detailed Program
+
+### Introduction
+- [Slides](assets/CPANG22%20-%20Day%201a%20-%20Introduction.pdf)
+- [Activities](pages/Day%201a%20-%20Introduction.md)
+
+### PGGB
+- [Slides](assets/CPANG22%20-%20Day%201b%20-%20PGGB.pdf)
+- [Activities - Build your first pangenomes](pages/Day%201b%20-%20PGGB.md)
+
+### Pangenome visualization
+- [Slides](assets/CPANG22%20-%20Day%202a%20-%20Pangenome%20visualization.pdf)
+
+### Homo sapiens pangenomes
+- [Activities - Pangenome building](pages/Day%202a%20-%20Homo%20sapiens%20pangenome%20graphs.md)
+- [Activities - Deep exploration](pages/Day%203a%20-%20Pangenome%20(sub)graphs.md)
+
+### ODGI
+- [Slides](assets/CPANG22%20-%20Day%203a%20-%20ODGI.pdf)
+
+### Saccharomyces cerevisiae pangenomes
+- [Activities - Divergence estimation and pangenome building](pages/Day%203a%20-%20Saccharomyces%20cerevisiae%20pangenome%20graphs.md)
+- [Activities - Community detection](pages/Day%204a%20-%20Saccharomyces%20cerevisiae%20pangenome%20graphs.md)
+
+### Read mapping and variant calling
+- [Activities](pages/Day%204b%20-%20Read%20mapping.md)
+
+### Other notes
+- [Notes](https://hackmd.io/@i-Mv45MZTMa2ZQH2rMAArQ/cpang22notes)
 
 
 ---
 
 ### Learning objectives
+Participants will develop an understanding of pangenome concepts, and refine this through practical experience with methods to build and interrogate pangenome graphs.
+We will apply these methods to difficult study questions wherein we need to understand the relationship between many genomes, or account for variability when we analyze new genomes.
+Participants will leave with a deep understanding of pangenome methods based on whole genome assemblies.
 
-### Instructors
+### [Instructors](pages/instructors.md)
 
 ---
 
-The source for this course webpage is [on github](https://github.com/GTPB/Web_course_template).
+The source for this course webpage is [in github](https://github.com/GTPB/Web_course_template).
 
 <br/>
 
