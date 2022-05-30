@@ -52,28 +52,28 @@ This course is oriented towards biologists and bioinformaticians. The course wil
 
 ### Introduction
 - [Slides](assets/CPANG22%20-%20Day%201a%20-%20Introduction.pdf)
-- [Activities](pages/Day%201a%20-%20Introduction.md)
+- [Activities](pages/Day1a_Introduction.md)
 
 ### PGGB
 - [Slides](assets/CPANG22%20-%20Day%201b%20-%20PGGB.pdf)
-- [Activities - Build your first pangenomes](pages/Day%201b%20-%20PGGB.md)
+- [Activities - Build your first pangenomes](pages/Day1b_PGGB.md)
 
 ### Pangenome visualization
 - [Slides](assets/CPANG22%20-%20Day%202a%20-%20Pangenome%20visualization.pdf)
 
 ### Homo sapiens pangenomes
-- [Activities - Pangenome building](pages/Day%202a%20-%20Homo%20sapiens%20pangenome%20graphs.md)
-- [Activities - Deep exploration](pages/Day%203a%20-%20Pangenome%20(sub)graphs.md)
+- [Activities - Pangenome building](pages/Day2a_Homo_sapiens_pangenome_graphs.md)
+- [Activities - Deep exploration](pages/Day3a_Pangenome_subgraphs.md)
 
 ### ODGI
 - [Slides](assets/CPANG22%20-%20Day%203a%20-%20ODGI.pdf)
 
 ### Saccharomyces cerevisiae pangenomes
-- [Activities - Divergence estimation and pangenome building](pages/Day%203a%20-%20Saccharomyces%20cerevisiae%20pangenome%20graphs.md)
-- [Activities - Community detection](pages/Day%204a%20-%20Saccharomyces%20cerevisiae%20pangenome%20graphs.md)
+- [Activities - Divergence estimation and pangenome building](pages/Day3b_Saccharomyces_cerevisiae_pangenome_graphs.md)
+- [Activities - Community detection](pages/Day4a_Saccharomyces_cerevisiae_pangenome_graphs.md)
 
 ### Read mapping and variant calling
-- [Activities](pages/Day%204b%20-%20Read%20mapping.md)
+- [Activities](pages/Day4b_Read_mapping.md)
 
 ### Other notes
 - [Notes](https://hackmd.io/@i-Mv45MZTMa2ZQH2rMAArQ/cpang22notes)
