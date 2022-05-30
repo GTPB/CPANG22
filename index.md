@@ -90,7 +90,7 @@ Participants will leave with a deep understanding of pangenome methods based on 
 
 ---
 
-The source for this course webpage is [in github](https://github.com/GTPB/Web_course_template).
+The source for this course webpage is [in github](https://github.com/GTPB/CPANG22).
 
 <br/>
 
