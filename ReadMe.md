@@ -1,5 +1,3 @@
-## GTPB Course Pages
-
 ## CPANG22 - Computational PANGenomics
 
 ###  Instituto Gulbenkian de Ciência (IGC) - Oeiras, Portugal - May 23<sup>th</sup> - May 27<sup>th</sup> 2022
