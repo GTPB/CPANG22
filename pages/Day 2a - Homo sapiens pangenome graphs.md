@@ -1,5 +1,14 @@
-Day 2a - Homo sapiens pangenome graphs
-===
+---
+layout: page
+title: Day 2a - Homo sapiens pangenome graphs
+schemadotorg:
+"@context": http://schema.org/
+"@type": CreativeWork
+"genre": TrainingMaterial
+isPartOf:
+url: "https://gtpb.github.io/CPANG22/"
+name: "CPANG22 - Computational PANGenomics"
+---
 
 ### Learning objectives
 
@@ -189,3 +198,7 @@ Produce full gene annotations and visualize them:
 
     wget https://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_40/gencode.v40.annotation.gff3.gz
     zcat gencode.v40.annotation.gff3.gz | grep ^chr20 | awk '$3 == "gene"' | cut -f 1,4,5,9 | tr ';' '\t' | grep gene_name= | cut -f 1-3,7 | sed s/gene_name=// | sed s/^chr20/grch38#1#chr20/ > grch38#1#chr20.gene.bed
+
+### Back
+
+Back to [main page](../index.md).

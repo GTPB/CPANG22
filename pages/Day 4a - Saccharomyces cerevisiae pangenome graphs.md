@@ -1,5 +1,14 @@
-Day 4a - Saccharomyces cerevisiae pangenome graphs
-===
+---
+layout: page
+title: Day 4a - Saccharomyces cerevisiae pangenome graphs
+schemadotorg:
+"@context": http://schema.org/
+"@type": CreativeWork
+"genre": TrainingMaterial
+isPartOf:
+url: "https://gtpb.github.io/CPANG22/"
+name: "CPANG22 - Computational PANGenomics"
+---
 
 ### Learning objectives
 
@@ -66,3 +75,7 @@ Identity the communities again, but this time add the `--plot` option to visuali
 Take a look at the `scerevisiae8.mapping.paf.edges.list.txt.communities.pdf` file.
 
 Write a little script that take the `*.community.*.txt` files in input and create the corresponding FASTA files, ready to be input to `pggb`. Run `pggb` on the communities with multiple chromosomes and compare the results (layout and variants) from the previous activities.
+
+### Back
+
+Back to [main page](../index.md).

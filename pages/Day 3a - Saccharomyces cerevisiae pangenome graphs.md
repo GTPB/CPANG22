@@ -1,5 +1,14 @@
-Day 3a - Saccharomyces cerevisiae pangenome graphs
-===
+---
+layout: page
+title: Day 3a - Saccharomyces cerevisiae pangenome graphs
+schemadotorg:
+"@context": http://schema.org/
+"@type": CreativeWork
+"genre": TrainingMaterial
+isPartOf:
+url: "https://gtpb.github.io/CPANG22/"
+name: "CPANG22 - Computational PANGenomics"
+---
 
 ### Learning objectives
 
@@ -93,3 +102,7 @@ Use `odgi squeeze` to put all the graphs together in the same file. Try to visua
 Run `pggb` on all chromosomes jointly, giving in input the `scerevisiae8.fasta.gz` file. Call variants too with respect to the `SGDref` sample. Take a look at the graph layout. Is the layout of the graph obtained by running `pggb` separately on each chromosome (and then combining its results) similar to the graph obtained by running `pggb` on all chromosomes jointly? 
 
 In the newly obtained VCF, count how many variants are called for each chromosome. Are these counts similar to those obtained by calling variants on each chromosome separately? Are there variants esclusive (that do not appear in the chromosome-based VCF files) to this new VCF file?
+
+### Back
+
+Back to [main page](../index.md).

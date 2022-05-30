@@ -1,5 +1,14 @@
-Day 4b - Read mapping
-===
+---
+layout: page
+title: Day 4b - Read mapping
+schemadotorg:
+"@context": http://schema.org/
+"@type": CreativeWork
+"genre": TrainingMaterial
+isPartOf:
+url: "https://gtpb.github.io/CPANG22/"
+name: "CPANG22 - Computational PANGenomics"
+---
 
 ### Learning objectives
 
@@ -58,3 +67,7 @@ Compute the snarls (using fewer threads with `-t` can reduce memory at the cost 
 Call variants:
 
     vg call z.xg -r z.snarls -k NA24385-20_1M-2M-30x.pack > NA24385-20_1M-2M-30x.vcf 
+
+### Back
+
+Back to [main page](../index.md).

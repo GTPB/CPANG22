@@ -1,5 +1,14 @@
-Day 3a - Pangenome (sub)graphs
-===
+---
+layout: page
+title: Day 3a - Pangenome (sub)graphs
+schemadotorg:
+"@context": http://schema.org/
+"@type": CreativeWork
+"genre": TrainingMaterial
+isPartOf:
+url: "https://gtpb.github.io/CPANG22/"
+name: "CPANG22 - Computational PANGenomics"
+---
 
 ### Learning objectives
 
@@ -210,4 +219,6 @@ The plot will look a bit odd because some of the paths are in reverse complement
     
     odgi untangle -R chr6.C4.gene.names.txt -i chr6.C4.genes.flip.gfa -j 0.5 -t 8 -g > chr6.C4.gene.gggenes.tsv
 
+### Back
 
+Back to [main page](../index.md).

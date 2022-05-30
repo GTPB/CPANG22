@@ -1,5 +1,14 @@
-Day 1a - Introduction
-===
+---
+layout: page
+title: Day 1a - Introduction
+schemadotorg:
+"@context": http://schema.org/
+"@type": CreativeWork
+"genre": TrainingMaterial
+isPartOf:
+url: "https://gtpb.github.io/CPANG22/"
+name: "CPANG22 - Computational PANGenomics"
+---
 
 ### Learning objectives
 
@@ -118,3 +127,7 @@ A set of pairwise alignments implies a variation graph, so pangenome graphs can 
     odgi viz -i DRB1-3123.og -o DRB1-3123.png -x 2000
 
 Use `Bandage` to visualize graphs.
+
+### Back
+
+Back to [main page](../index.md).

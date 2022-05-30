@@ -1,5 +1,14 @@
-Day 1b - PGGB
-===
+---
+layout: page
+title: Day 1b - PGGB
+schemadotorg:
+"@context": http://schema.org/
+"@type": CreativeWork
+"genre": TrainingMaterial
+isPartOf:
+url: "https://gtpb.github.io/CPANG22/"
+name: "CPANG22 - Computational PANGenomics"
+---
 
 ### Learning objectives
 
@@ -94,3 +103,7 @@ Choose another HLA gene from the `data` folder and explore how the statistics of
 [Lipoprotein(a) (LPA)](https://en.wikipedia.org/wiki/Lipoprotein(a)) is a low-density lipoprotein variant containing a protein called apolipoprotein(a). Genetic and epidemiological studies have identified lipoprotein(a) as a risk factor for atherosclerosis and related diseases, such as coronary heart disease and stroke.
 
 Try to make LPA pangenome graphs. The input sequences are in `data/LPA/LPA.fa.gz`. Sequences in this locus have a peculiarity: which one? Hint: visualize the alignments and take a look at the graph layout (with `Bandage` and/or in the `.draw_multiqc.png` files).
+
+### Back
+
+Back to [main page](../index.md).
