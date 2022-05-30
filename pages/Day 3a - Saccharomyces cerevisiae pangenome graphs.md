@@ -2,12 +2,12 @@
 layout: page
 title: Day 3a - Saccharomyces cerevisiae pangenome graphs
 schemadotorg:
-"@context": http://schema.org/
-"@type": CreativeWork
-"genre": TrainingMaterial
-isPartOf:
-url: "https://gtpb.github.io/CPANG22/"
-name: "CPANG22 - Computational PANGenomics"
+  "@context": http://schema.org/
+  "@type": CreativeWork
+  "genre": TrainingMaterial
+  isPartOf:
+    url: "https://gtpb.github.io/CPANG22/"
+    name: "CPANG22 - Computational PANGenomics"
 ---
 
 ### Learning objectives
