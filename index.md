@@ -40,6 +40,7 @@ keywords:  "http://edamontology.org/topic_0622"
   url: "https://gtpb.github.io/Web_course_template/"
 ---
 
+![CPANG22](/assets/CPANG22.png)
 
 ## Course Description
 
