@@ -101,7 +101,7 @@ Participants will leave with a deep understanding of pangenome methods based on 
 <div style="display: inline-block">
   <img src="pages/images/instructors/Erik_Garrison_2022.png" height="324" width="279" align="left" style="margin-right: 3%; margin-bottom: 0.3em;" alt="Erik Garrison">
 
-  [Erik Garrison](http://hypervolu.me/~erik/erik_garrison.html)s a Postdoctoral fellow at the University of California,Santa Cruz. His research has focused on the development of a software toolkit for practical pangenomics: [vg](https://github.com/vgteam/vg).
+  [Erik Garrison](http://hypervolu.me/~erik/erik_garrison.html) is a Postdoctoral fellow at the University of California,Santa Cruz. His research has focused on the development of a software toolkit for practical pangenomics: [vg](https://github.com/vgteam/vg).
 
   Erik Garrison builds methods that let us understand the precise relationships between thousands of genomes. His work on this topic began with the development of Bayesian methods to detect and genotype genomic variants, with application of these methods to the thousands of human genomes cataloged in the 1000 Genomes Project. Lessons learned in that effort guided him to work on unbiased methods for genome inference based on graphical models of pangenomes. In these, the genome is encoded in a graph that may represent a population sample of individuals from the same species, a metagenome, the diploid genome of a single individual, or any other useful collection of genomic sequence information. Erik have shown that this approach provides more accurate alignment of reads when it is possible to construct a high-quality pangenome, and is currently applying it to the construction of pangenome graphs for humans as part of the HPRC.
 </div>
@@ -119,10 +119,12 @@ Participants will leave with a deep understanding of pangenome methods based on 
 
 ---
 
-#### Helpers
-#### [Flavia Villani](https://github.com/Flavia95)
+### Helpers
+<div style="display: inline-block">
+  <img src="pages/images/helpers/Flavia_Villani.jpg" height="304" width="270" align="left" style="margin-right: 3%; margin-bottom: 0.3em;" alt="Flavia Villani">
+[Flavia Villani](https://github.com/Flavia95)
 **Affiliation:** University of Tennessee Health Science Center, Memphis, TN, US
-
+</div>
 #### [Njagi Mwaniki](https://github.com/urbanslug)
 **Affiliation:** University of Pisa, Pisa, Italy
 
